@@ -1,4 +1,87 @@
-#nav1
+.active
 {
-	font-weight: bolder;
+	float right;
+}
+#intro
+{
+	background: url("\ bodybuilding-motivational-quotes-tumblrtop-25-motivational-bodybuilding-tumblr-quotes-3.jpg") fixed;
+	height: 800px;
+	background-size: cover;
+	margin-top: -20px;	
+
+
+	
+}
+h1
+{
+	  margin-top: 350px;
+	font-size: 50px;
+	color: red;
+}
+p
+{
+	font-size: 20px;
+	color: white;
+
+}
+#knowmore
+{
+	background-color: grey;
+	background-shadow: 20px;
+	font-size: 16px;
+}
+.heading
+{
+	text-align: center;
+	padding-bottom: 6px;
+	margin-top: -99px;
+}
+.firstblog
+{
+	border: 1px solid #0072bc;
+	box-shadow: 7px 4px 40px black;
+	margin-bottom: 40px;
+}
+hr
+	{
+		  width: 82%;
+  		height: 2px;
+  		background-color: #0072bc;
+  		padding-left: 50px
+  	}
+  	h4
+  	{
+  		color:red;
+  	}
+  
+#secondpart
+{
+	background: url("\ quote-11.jpg") fixed;
+	height: 800px;
+	background-size: cover;
+}
+#ab
+{
+	margin-top: 50px;
+}
+#abc
+{
+	margin-top: 50px;
+
+}
+#a
+{
+	font-size: 30px;
+}
+#z
+{
+	font-size: 30px;
+}
+#ba
+{
+	font-size: 25px;
+}
+#zx
+{
+	font-size: 25px; 
 }
