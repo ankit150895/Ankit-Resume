@@ -85,3 +85,21 @@ hr
 {
 	font-size: 25px; 
 }
+#secondintro::after
+{
+	background: url("\ technology-background-wallpaper-images-photos-0322135715.jpg") fixed;
+	height: 400px;
+	background-size: cover;
+	/*margin-top: -20px;	*/
+	font-size: 25px;
+	z-index: -1;
+	opacity: 0.6;
+	position: absolute;
+	width: 100%;
+}
+h3
+{
+	margin-top: 200px;
+	font-size: 25px;
+	color: black;
+}
